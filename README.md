@@ -1,2 +1,6 @@
-# cod3r__mensagens_em_uma_plicacao_fullstack_com_next_mais_nest
-Mensagens em uma Aplicação Fullstack | Next + Nest
+# Mensagens em uma Aplicação Fullstack | Next + Nest
+
+- [NextJS](https://nextjs.org/docs)
+- [NestJS](https://nestjs.com/)
+
+### [Cod3r Cursos](https://www.youtube.com/watch?v=mikoTbhH_Qg)
